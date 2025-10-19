@@ -2,7 +2,6 @@ permissions:
   contents: write
 
 name: Scrape Talk Locations
-
 on:
   push:
     paths:
@@ -18,11 +17,18 @@ jobs:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.9'
+
+      - name: Pre-sync with remote
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin master
+          git rebase origin/master || true   # 先把本地快进到最新
 
       - name: Install dependencies
         run: |
@@ -33,12 +39,8 @@ jobs:
         run: |
           jupyter nbconvert --to notebook --execute talkmap.ipynb --output talkmap_out.ipynb
 
-      - name: Commit changes
+      - name: Commit & push
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git fetch origin master
-          git rebase origin/master || git pull --rebase
-          git add .
+          git add -A
           git commit -m "Automated update of talk locations" || echo "No changes to commit"
           git push

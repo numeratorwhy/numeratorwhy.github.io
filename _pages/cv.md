@@ -11,37 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014 -->
+* B.Eng. in Computer Engneering, The University of Hong Kong
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2024: Research Assistant
+  * QICI lab in The University of Hong Kong
+  * Duties includes: Quantum Sensing for Many-body Systems via Deep Learning
+  * Supervisor: [Prof.Yuxiang Yang](https://yangyx09.github.io/)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2025-Present: Final Year Project
+  * The University of Hong Kong, EEE Department
+  * Duties included: Exploring Quantum Machine Learning and Computational Complexity: A Study of Emerging Models and Algorithm
+  * Supervisor: [Prof.Yuxiang Yang](https://yangyx09.github.io/) and [Prof.Tianshuo Zhao](https://www.eee.hku.hk/~tszhao/)
 
-* Summer 2015: Research Assistant
+<!-- * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages:**
+  *Python
+  *C
+  *C++
+  *VHDL
+* **Mathematical & Statistical Tool:**
+  *Matlab
+* **Other Tools & Technologies:**
+  *Manim(3D mathematical animation)
+  *Unity
+* **Makeup Languages:**
+  *Latex
+  *Markdwon
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +68,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

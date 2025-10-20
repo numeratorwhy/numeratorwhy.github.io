@@ -35,18 +35,18 @@ Work experience
 Skills
 ======
 * **Programming Languages:**
-  *Python
-  *C
-  *C++
-  *VHDL
+  Python,
+  C,
+  C++,
+  VHDL
 * **Mathematical & Statistical Tool:**
-  *Matlab
+  Matlab
 * **Other Tools & Technologies:**
-  *Manim(3D mathematical animation)
-  *Unity
+  Manim(3D mathematical animation),
+  Unity
 * **Makeup Languages:**
-  *Latex
-  *Markdwon
+  Latex,
+  Markdwon
 
 <!-- Publications
 ======

@@ -1,9 +1,16 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# 我的个人网站
 
-![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
+这是我的个人网站仓库，基于 Jekyll 和 minima 主题构建。
 
-# Getting Started
+## 快速预览指南
+
+### 1. Markdown 文件预览
+在 VS Code 中预览单个 Markdown 文件：
+1. 打开任意 .md 文件
+2. 按 `Ctrl+Shift+V` 或右键选择"打开预览"
+3. 预览窗口会实时更新
+
+### 2. 完整网站预览
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right. weqwe

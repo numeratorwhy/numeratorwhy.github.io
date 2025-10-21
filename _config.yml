@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "zh-HK"
-site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Haoyu Wang"
+site_theme               : "default" # Currently available options are "default", "air"
+title                    : "Haoyu Wang(Harry)"
 title_separator          : "-"
 name                     : &name "Harry"
 description              : &description ""   # Update this with a general description of your site, this is the default if not overridden by a page

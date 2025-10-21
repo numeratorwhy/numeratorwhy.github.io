@@ -1,6 +1,6 @@
 ---
 title: "Photo with Qian Xuesen"
-excerpt: "This is a photo with Qian Xuesen in Caltech Pasadena.<br/><img src='/images/QIANXUESEN.jpg'>"
+excerpt: "This is a photo with Qian Xuesen in Caltech Pasadena.<br/><img src='/images/QIANXUESEN.jpg' style='width: 320px; height: auto;'>"
 collection: portfolio
 ---
 

@@ -22,9 +22,9 @@ Work experience
   * Duties includes: Quantum Sensing for Many-body Systems via Deep Learning
   * Supervisor: [Prof.Yuxiang Yang](https://yangyx09.github.io/)
 
-* Fall 2025-Present: Final Year Project
+* 2025-2026: Final Year Project(Win)
   * The University of Hong Kong, EEE Department
-  * Duties included: Exploring Quantum Machine Learning and Computational Complexity: A Study of Emerging Models and Algorithm
+  * Project title: Heisenberg-limited Hamiltonian Learning and Computational Complexity
   * Supervisor: [Prof.Yuxiang Yang](https://yangyx09.github.io/) and [Prof.Tianshuo Zhao](https://www.eee.hku.hk/~tszhao/)
 
 <!-- * Summer 2015: Research Assistant
@@ -44,6 +44,7 @@ Skills
 * **Other Tools & Technologies:**
   Manim(3D mathematical animation),
   Unity
+  Blender
 * **Makeup Languages:**
   Latex,
   Markdwon

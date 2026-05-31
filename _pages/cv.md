@@ -22,7 +22,7 @@ Work experience
   * Duties includes: Quantum Sensing for Many-body Systems via Deep Learning
   * Supervisor: [Prof.Yuxiang Yang](https://yangyx09.github.io/)
 
-* 2025-2026: Final Year Project(Win)
+* 2025-2026: Final Year Project([Wins the HKU ECE "outstanding poster award"](https://ece.hku.hk/20260511-1/))
   * The University of Hong Kong, EEE Department
   * Project title: Heisenberg-limited Hamiltonian Learning and Computational Complexity
   * Supervisor: [Prof.Yuxiang Yang](https://yangyx09.github.io/) and [Prof.Tianshuo Zhao](https://www.eee.hku.hk/~tszhao/)

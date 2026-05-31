@@ -1,20 +1,21 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course teaching assistant"
+permalink: /teaching/2026-Spring-COMP1110
+venue: "The University of Hong Kong, School of Computing and Data Science"
+date: 2026-01-31
+location: "Hong Kong SAR"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I was a STA of HKU COMP1110, this is a new mandatory course for the student who majoring in computer science, the course aim to illustrate each sub-fields of CS (Complexity theory, AI, QC, OS, cryptography etc). I was holding a tutorial session and responsible for guiding student's course project.
 
-Heading 1
-======
+
+Student TA
+<!-- ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->

@@ -11,11 +11,3 @@ location: "Hong Kong SAR"
 I was a STA of HKU COMP1110, this is a new mandatory course for the student who majoring in computer science, the course aim to illustrate each sub-fields of CS (Complexity theory, AI, QC, OS, cryptography etc). I was holding a tutorial session and responsible for guiding student's course project.
 
 
-Student TA
-<!-- ======
-
-Heading 2
-======
-
-Heading 3
-====== -->
